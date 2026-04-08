@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FULL-STACK Web-Development,Android applications and app-cloning Activities.App-cloning,**
 
-- 💬 Ask me about **Ask me about engineering concepts, web applications, Android apps, and drone technology**
+- 💬 Ask me about **Ask me about engineering concepts, web applications, Android Apps, and Drone Technology**
 
 - 📫 How to reach me **pranjitdasgupta@gmail.com**
 
